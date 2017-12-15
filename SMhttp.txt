@@ -6,6 +6,7 @@ facebook账号  用户名 18084031755密码lsm
 网易云课堂账号 用户 密码
 p站账号 google邮箱www.xufu.com@gmail.com 密码lsm6....
 百度云盘账号 1277719761@qq.com 密码6....
+51CTO 用户 wx5a33335269438 密码742670
 服务地址 47.90.99.120 端口8888
 
 绝地求生服务器地址 日本dynamodb.ap-northeast-1.amazonaws.com
